@@ -80,7 +80,6 @@ content:
           Something clever clever goes here
         description: | # this will include new lines to allow paragraphs
             Description text goes here.
-
         sub_title: Data Analyst, Marketing
         caption: November 2018 - December 2020
         description: | # this will include new lines to allow paragraphs
