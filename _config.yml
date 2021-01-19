@@ -32,7 +32,7 @@ linkedin_username: courtneylhatch
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "G-7H96R9K7MY"
+ gtag: "G-7H96R9K7MY"
 # google_analytics: "UA-259298847-0"
 
 # About Section
@@ -78,10 +78,6 @@ content:
         caption: December 2020 - Present
         quote: >
           Something clever clever goes here
-        description: | # this will include new lines to allow paragraphs
-            Description text goes here.
-        sub_title: Data Analyst, Marketing
-        caption: November 2018 - December 2020
         description: | # this will include new lines to allow paragraphs
             Description text goes here.
 
