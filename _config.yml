@@ -32,14 +32,14 @@ linkedin_username: courtneylhatch
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+# gtag: "G-7H96R9K7MY"
 # google_analytics: "UA-259298847-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile_ch.jpeg
 about_content: | # this will include new lines to allow paragraphs
-I am a Harvard Business Analytics Graduate & Ambassador. I enjoy working ambidextrously on initiatives that enhance existing operational capabilities as well as exploring new innovative ways to optimize processes for the future value creation. 
+I am a Harvard Business Analytics Graduate & Ambassador. I enjoy working ambidextrously on initiatives that enhance existing operational capabilities as well as exploring new innovative ways to optimize processes for the future value creation.
 
 My primary experience is working with B2B Marketing data, but I am always open to explore new areas of growth through data analysis. 
 
