@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: halfcourt/halfcourt.github.io
 favicon: images/favicon.png
 
 # Content configuration version
@@ -32,7 +32,7 @@ linkedin_username: courtneylhatch
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
- gtag: "G-7H96R9K7MY"
+# gtag: "G-7H96R9K7MY"
 # google_analytics: "UA-259298847-0"
 
 # About Section
