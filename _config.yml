@@ -81,13 +81,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             Description text goes here.
 
-        title: Verizon Media
-        link: verizondigitalmedia.com
-        # link_text: verizondigitalmedia.com
         sub_title: Data Analyst, Marketing
         caption: November 2018 - December 2020
-        quote: >
-          Something clever clever goes here
         description: | # this will include new lines to allow paragraphs
             Description text goes here.
 
@@ -96,7 +91,7 @@ content:
     content:
       - layout: left
         title: Harvard Business Analytics Program
-        caption: 2019 - 2020
+        caption: January 2019 - March 2020
         sub_title: Certification
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
