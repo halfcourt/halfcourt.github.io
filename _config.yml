@@ -97,12 +97,21 @@ content:
     content:
       - layout: left
         title: Harvard Business Analytics Program
-        caption: January 2019 - March 2020
+        caption: March 2020
         sub_title: Certification
         quote: >
           The Harvard Business Analytics Program is offered through a collaboration between Harvard Business School, the John A. Paulson School of Engineering and Applied Sciences, and the Faculty of Arts and Sciences. Designed for aspiring and established leaders in any industry, the program leverages a rigorous cross-disciplinary curriculum to help students not just analyze data but understand it, translate it, and incorporate it into strategy at the top levels of their organizations.
         description: | # this will include new lines to allow paragraphs
           Description text goes here.
+
+      - layout: left 
+          name: University of Hawaii at Manoa
+          dates: May 2010
+          qualification: Bachelor of Business Administration, Marketing
+          quote: >
+            Short institution or course description (optional)
+          description: | # this will include new lines to allow paragraphs
+            Description of qualification
 
   - title: A Little More About Me
     layout: text
