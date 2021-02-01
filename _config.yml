@@ -104,10 +104,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description text goes here.
 
-      - layout: left 
-        title: University of Hawaii at Manoa
-        caption: May 2010
-        sub_title: Bachelor of Business Administration, Marketing
+      - layout: left
+        name: University of Hawaii at Manoa
+        dates: May 2010
+        qualification: Bachelor of Business Administration, Marketing
         quote: >
           Short institution or course description (optional)
          description: | # this will include new lines to allow paragraphs
