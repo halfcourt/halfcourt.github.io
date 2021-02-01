@@ -104,15 +104,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description text goes here.
 
-      - layout: left
-        name: University of Hawaii at Manoa
-        dates: May 2010
-        qualification: Bachelor of Business Administration, Marketing
-        quote: >
-          Short institution or course description (optional)
-         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
