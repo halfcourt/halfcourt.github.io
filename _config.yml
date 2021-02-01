@@ -6,7 +6,7 @@ favicon: images/favicon.png
 version: 2
 
 # Personal info
-name: Courtney L. Hatch
+name: Courtney Hatch
 title: Data & Analytics Manager
 email: hatch.courtney@gmail.com
 website: courtneyhatch.com
@@ -39,12 +39,14 @@ linkedin_username: courtneylhatch
 # about_title: About Me
 about_profile_image: images/profile_ch.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Harvard Business Analytics Graduate & Ambassador. I enjoy working on initiatives that enhance existing operational capabilities as well as explore new innovative ways to optimize processes for future value creation.
-
-  My primary experience is working with B2B Marketing data, but I am always open to explore new areas of growth through data analysis. 
-
-  I am a firm believer that Marketing's process and data can provide more value to an organization than generally perceived, and that business operations who choose to enable and leverage this data for insight and growth will ultimately succeed. 
-
+I am currently a Data & Analytics Manager on a B2B Marketing team and recently in 2020, I graduated from the Harvard Business Analytics Program with Distinction. 
+#
+I began a career in data because I enjoy working on initiatives that use statistics to enhance existing operational capabilities as well as explore new innovative ways to optimize business strategies for future value creation.
+#
+I am a firm believer that through Marketing's online and offline engagements, that data can provide more value to an organization than generally perceived, and that business operations who choose to enable and leverage this data for insight and growth will ultimately succeed.
+#
+My core experience is working with B2B Marketing and Sales data, but I am always open to explore new areas of growth through data analysis. 
+#
   I am most skilled in: <mark>Laughing</mark> <mark>Eating</mark> <mark>Asking Questions</mark>
 
 content:
@@ -75,7 +77,7 @@ content:
         link: verizondigitalmedia.com
         # link_text: verizondigitalmedia.com
         sub_title: Data & Analytics Manager, Marketing
-        caption: December 2020 - Present
+        caption: November 2018 - Present
         quote: >
           Something clever clever goes here
         description: | # this will include new lines to allow paragraphs
@@ -89,7 +91,7 @@ content:
         caption: January 2019 - March 2020
         sub_title: Certification
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          The Harvard Business Analytics Program is offered through a collaboration between Harvard Business School, the John A. Paulson School of Engineering and Applied Sciences, and the Faculty of Arts and Sciences. Designed for aspiring and established leaders in any industry, the program leverages a rigorous cross-disciplinary curriculum to help students not just analyze data but understand it, translate it, and incorporate it into strategy at the top levels of their organizations.
         description: | # this will include new lines to allow paragraphs
           Description text goes here.
 
