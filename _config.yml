@@ -81,7 +81,16 @@ content:
         quote: >
           Something clever clever goes here
         description: | # this will include new lines to allow paragraphs
-            Description text goes here.
+            - Developed customer personas to better understand customers and buying teams
+            - Standardized procedures for the advancement of marketing’s online and offline tracking of prospect and customer engagement
+            - Illustrated data insights to executive leadership and advocated more targeted approaches to go-to-market campaigns
+            - Evaluated cross-functional marketing procedures to optimize the operational structure and better connect data for analysis and reporting
+            - Formalized and managed data taxonomies across marketing tools to support cross-system reporting
+            - Established a system for the realtime compilation of marketing touchpoints on sales opportunities to measure pipeline and revenue attribution
+            - Instituted a data dictionary and documentation to support data governance
+            - Implemented marketing automations to enable data sharing with engineering and sales teams
+            - Leveraged analysis to mobilize digital marketing and demand generation strategies
+            - Orchestrated routine auditing procedures to ensure data accuracy and integrity
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
